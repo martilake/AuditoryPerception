@@ -1,4 +1,4 @@
-Code adapted from Stephen Lumenta, see: https://github.com/sbl/chimera, which is a Python-adaptation of MATLAB code from Smith et al. (2002) by Bertrand Delgutte
+Code adapted from Stephen Lumenta, see: https://github.com/sbl/chimera, which is a Python-adaptation of MATLAB code by Bertrand Delgutte from Smith et al. (2002) 
 
 Rainforest audio file taken from https://mindful-audio.com/sound-effects-libraries#/african-jungle/
 
